@@ -1,0 +1,16 @@
+Main.html
+- Use Bootstrap Buttons,
+Navigation bar, Containers, Grid
+layout system.
+- Use dropdown, Bootstrap's
+Cards, List Group, Carousel
+component
+- Use Bootstrap's Form
+component for form elements
+like text inputs, textareas, and
+buttons.
+NEW Bootstrup elements:
+Jumbotron
+Alert
+Breakfast.html
+Carousel
